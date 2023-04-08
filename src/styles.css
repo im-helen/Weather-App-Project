@@ -1,9 +1,13 @@
 .container {
+  max-width: 1200px;
+}
+.forecastContainer {
   font-family: "Urbanist", sans-serif;
   color: #404969;
+  margin: 0 auto;
   margin-top: 5%;
   margin-bottom: 5%;
-  max-width: 700px;
+  max-width: 670px;
 }
 
 .card {
